@@ -10,5 +10,5 @@ Kotlin / Android Studio
 
 ### Screenshots:
 
-![alt text](https://github.com/MartinLaRosa27/Brick-Destroyer/blob/main/resources/screenshot1.png?raw=true)
-![alt text](https://github.com/MartinLaRosa27/Brick-Destroyer/blob/main/resources/screenshot2.png?raw=true)
+![alt text](https://github.com/MartinLaRosa27/Brick-Destroyer/blob/main/resources/screenshot1.jpg?raw=true)
+![alt text](https://github.com/MartinLaRosa27/Brick-Destroyer/blob/main/resources/screenshot2.jpg?raw=true)
